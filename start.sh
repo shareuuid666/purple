@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=24b4b1e1-7a89-45f6-858c-242cf53b5bdb
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+AUUID=76b2989e-0c53-4c59-801d-f4d95a8d0491
+CADDYIndexPage=http://www.pepsi.com
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
